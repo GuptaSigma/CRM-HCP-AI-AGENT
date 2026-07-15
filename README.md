@@ -118,3 +118,5 @@ Here are sample prompts you can enter in the **AI Assistant** chat panel to test
 * **Next Best Action**: `What is the next best action for Dr. Sarah Jenkins?`
 * **Generate Email**: `Generate a follow-up email draft for Dr. Sarah Jenkins.`
 * **Edit Interaction**: `Change the sentiment to Neutral and change follow-up to next Friday.` *(Note: edits the active interaction loaded in the form).*
+
+  **Thank you**
